@@ -1,0 +1,19 @@
+﻿  player.cpp
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(4,48): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(4,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(4,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(4,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(47,11): warning C4305: =: усечение из "double" в "float"
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(48,25): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(57,11): warning C4305: =: усечение из "double" в "float"
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(58,25): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(67,9): warning C4305: =: усечение из "double" в "float"
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(80,13): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(81,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(84,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(89,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(94,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(98,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(129,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\kirik\source\repos\sfml-try\sfml-try\sfml-try\player.cpp(132,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  sfml-try.vcxproj -> C:\Users\kirik\source\repos\sfml-try\sfml-try\Debug\sfml-try.exe

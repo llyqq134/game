@@ -1,0 +1,22 @@
+﻿sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Init_FreeType.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Done_FreeType.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_New_Face.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_New_Memory_Face.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Open_Face.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Done_Face.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Set_Pixel_Sizes.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Load_Char.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Get_Kerning.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Select_Charmap.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Get_Char_Index.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_MulFix.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Get_Glyph.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Glyph_To_Bitmap.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Done_Glyph.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Outline_Embolden.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Bitmap_Embolden.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Stroker_New.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Stroker_Set.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Stroker_Done.
+sfml-graphics-s.lib(Font.obj) : error LNK2001: неразрешенный внешний символ FT_Glyph_Stroke.
+C:\Users\kirik\source\repos\sfml-try\sfml-try\x64\Release\sfml-try.exe : fatal error LNK1120: неразрешенных внешних элементов: 21
